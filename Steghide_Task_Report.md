@@ -127,7 +127,7 @@ Extract a hidden QR code from an image (`stego_image.png`) using **Stegsolve** a
 
 This report ensures reproducibility and documents the methodology for solving the challenges.  
 
-**GitHub Repository:**      
+**GitHub Repository:** https://github.com/deejonsen/Steghide_Task_Report.md/     
 **Submitted by:** Dorcas Johnson    
 **Date:** 4th April, 2025  
 
