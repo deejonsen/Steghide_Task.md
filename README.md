@@ -21,25 +21,6 @@ This repository contains solutions for three steganography challenges:
 
 ---
 
-## **📂 Repository Structure**  
-```
-/steganography-challenges  
-│  
-├── /Challenge_1  
-│   ├── sample.jpeg           # Original image with hidden data  
-│   ├── sample-2.txt           # Extracted message (after cracking)  
-│   └── solution.md          # Step-by-step guide for Task 1 & 2  
-│  
-├── /Challenge_2  
-│   ├── stego_image.png      # Image containing hidden QR code  
-│   ├── extract_data.png     # Recovered QR code  
-│   └── solution.md          # Steps to extract and decode QR  
-│  
-├── README.md                # This file  
-└── LICENSE                  # Usage terms  
-```
-
----
 
 ## **🚀 Quick Setup**  
 1. **Install Dependencies**  
